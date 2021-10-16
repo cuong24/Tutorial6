@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Cuong restaurant",
+    "lat": 20,
+    "long": 30
+  },
+  {
+    "name": "Tien restaurant",
+    "lat": 30,
+    "long": 30
+  },
+  {
+    "name": "Pikachu restaurant",
+    "lat": 40,
+    "long": 30
+  },
+  {
+    "name": "Chuot restaurant",
+    "lat": 50,
+    "long": 30
+  },
+  {
+    "name": "Meo restaurant",
+    "lat": 60,
+    "long": 30
+  }
+]
