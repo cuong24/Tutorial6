@@ -9,3 +9,4 @@ dependencyResolutionManagement {
 rootProject.name = "Tutorial 6"
 include ':map'
 include ':part3'
+include ':exercise'
